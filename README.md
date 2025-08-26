@@ -1,3 +1,5 @@
+<img src="pack.png" width="320" height="320"/>
+
 # Upscaled Mekanism 32x Resource Pack
 32x Resource pack for minecraft mekanism mod
 
